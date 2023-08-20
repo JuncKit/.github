@@ -55,7 +55,7 @@
  ### 📱 Screenshots
 |Passenger's KeyFlow|Driver's KeyFlow|Pasenger's|
 |:-:|:-:|:-:|
-|![1](https://github.com/JuncKit/.github/assets/70744494/03ce1d49-6c6d-4929-a3bb-e097f706215e)|![닉네임:캐릭터이름:칼로리설정](https://github.com/JuncKit/.github/assets/70744494/ccf06065-aff1-4fea-9c51-9b4da1503b45)|![세팅](https://github.com/JuncKit/.github/assets/70744494/6ec1123a-0ab9-4a7a-a217-9aadb3db38be)|
+|![1](https://github.com/JuncKit/.github/assets/70744494/03ce1d49-6c6d-4929-a3bb-e097f706215e)|![닉네임:캐릭터이름:칼로리설정](https://github.com/JuncKit/.github/assets/70744494/b3be6ac6-ae5f-4bf6-b974-8882c0a4fd8b)|![세팅](https://github.com/JuncKit/.github/assets/70744494/6ec1123a-0ab9-4a7a-a217-9aadb3db38be)|
 
 <br>
 
