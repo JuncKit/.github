@@ -47,9 +47,9 @@
 </div>
 </details>
 
-|[<img src="https://github.com/kpk0616.png" width="100px">](https://github.com/kpk0616)|[<img src="https://github.com/gmkim20713.png" width="100px">](https://github.com/gmkim20713)|[<img src="https://github.com/baebang.png" width="100px">](https://github.com/baebang)|[<img src="https://github.com/--.png" width="100px">](https://github.com/--)|[<img src="https://github.com/yeeun223.png" width="100px">](https://github.com/yeeun223)|
+|[<img src="https://github.com/kpk0616.png" width="100px">](https://github.com/kpk0616)|[<img src="https://github.com/gmkim20713.png" width="100px">](https://github.com/gmkim20713)|[<img src="https://github.com/baebang.png" width="100px">](https://github.com/baebang)|[<img src="https://github.com/yejinms.png" width="100px">](https://github.com/yejinms)|[<img src="https://github.com/yeeun223.png" width="100px">](https://github.com/yeeun223)|
 |:----:|:----:|:----:|:----:|:----:|
-|[Euiseo Park](https://github.com/kpk0616)|[Kyungmin Kim](https://github.com/gmkim20713)|[Jaejung Kim](https://github.com/baebang)|[Yejin Kim](https://github.com/DhKimy)|[Yeeun Kim](https://github.com/yeeun223)|
+|[Euiseo Park](https://github.com/kpk0616)|[Kyungmin Kim](https://github.com/gmkim20713)|[Jaejung Kim](https://github.com/baebang)|[Yejin Kim](https://github.com/yejinms)|[Yeeun Kim](https://github.com/yeeun223)|
 <br>
 
  ### 📱 Screenshots
